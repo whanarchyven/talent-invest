@@ -1,0 +1,18 @@
+# Исключаем локальные зависимости
+node_modules/
+apps/*/node_modules/
+apps/frontend/.next/
+packages/*/node_modules/
+
+# Bun файлы
+bun.lockb
+
+# Лог файлы
+*.log
+
+# ОС файлы
+.DS_Store
+Thumbs.db
+
+# Экологические переменные
+.env

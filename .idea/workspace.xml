@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92f4fede-d10e-497a-a841-58f066402e53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/frontend/src/app/[subdomain]/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/frontend/src/app/[subdomain]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/frontend/src/middleware.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/frontend/src/subdomains.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/frontend/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/frontend/src/app/page.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="92f4fede-d10e-497a-a841-58f066402e53" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +71,7 @@
       <workItem from="1734792691788" duration="3834000" />
       <workItem from="1734920604527" duration="78000" />
       <workItem from="1735028208215" duration="610000" />
-      <workItem from="1735040598827" duration="3578000" />
+      <workItem from="1735040598827" duration="3926000" />
     </task>
     <servers />
   </component>

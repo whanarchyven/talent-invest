@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92f4fede-d10e-497a-a841-58f066402e53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/frontend/src/app/[subdomain]/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/frontend/src/app/[subdomain]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/frontend/src/middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/frontend/src/subdomains.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/frontend/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/frontend/src/app/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qWya85trog1jZ8J5hFtD0PeulL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Иван Забурдаев/Desktop/aicharm-project/apps/frontend/src/app/[subdomain]",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\Иван Забурдаев\\Desktop\\aicharm-project\\apps\\backend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Иван Забурдаев\Desktop\aicharm-project\apps\frontend\src\app\[subdomain]" />
+      <recent name="C:\Users\Иван Забурдаев\Desktop\aicharm-project\apps\frontend\src\app" />
+      <recent name="C:\Users\Иван Забурдаев\Desktop\aicharm-project\apps\frontend\src\app\tenant1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Иван Забурдаев\Desktop\aicharm-project\apps\frontend\src" />
+      <recent name="C:\Users\Иван Забурдаев\Desktop\aicharm-project\apps\frontend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92f4fede-d10e-497a-a841-58f066402e53" name="Changes" comment="" />
+      <created>1734792688137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734792688137</updated>
+      <workItem from="1734792691788" duration="3834000" />
+      <workItem from="1734920604527" duration="78000" />
+      <workItem from="1735028208215" duration="610000" />
+      <workItem from="1735040598827" duration="3578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

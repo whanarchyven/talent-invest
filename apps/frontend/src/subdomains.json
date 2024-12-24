@@ -1,0 +1,16 @@
+[
+  {
+    "subdomain": "tenant1",
+    "data": {
+      "name": "test1 Subdomain",
+      "theme": "light"
+    }
+  },
+  {
+    "subdomain": "tenant2",
+    "data": {
+      "name": "test2 Subdomain",
+      "theme": "dark"
+    }
+  }
+]

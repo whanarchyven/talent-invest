@@ -19,7 +19,9 @@ const db = client.db(dbName);
 
 
 const app = new Elysia()
-    .use(cors())
+    .use(cors({
+        origin: '*', // или укажите конкретные домены
+    }))
     .use(staticPlugin({
         prefix: '/public',
         assets: 'public'

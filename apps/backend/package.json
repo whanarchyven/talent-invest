@@ -9,7 +9,12 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "elysia": "^1.1.26"
+    "@elysiajs/cors": "^1.2.0",
+    "@elysiajs/static": "^1.2.0",
+    "@types/formidable": "^3.4.5",
+    "elysia": "^1.1.26",
+    "formidable": "^3.5.2",
+    "mongodb": "^6.13.0"
   },
   "scripts": {
     "dev": "bun --watch index.ts"

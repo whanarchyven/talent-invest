@@ -1,8 +1,8 @@
 import { eden } from '@/features/eden/eden';
 import { handleError } from '../utils/handleError';
 
-export const getHeloPageData = async () => {
-  const data = await eden.index.get();
+export const getInvestors = async (page: number, limit: number) => {
+  const data = await eden.investors.get({ query: { page, limit } });
   if (data.error) {
     handleError(data.error);
   }

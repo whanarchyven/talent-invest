@@ -9,7 +9,9 @@
   "scripts": {
     "dev:backend": "cd apps/backend && bun run dev",
     "dev:frontend": "pnpm --filter frontend dev",
-    "dev": "concurrently \"pnpm run dev:frontend\" \"pnpm run dev:backend\""
+    "dev": "concurrently \"pnpm run dev:frontend\" \"pnpm run dev:backend\"",
+    "build": "pnpm --filter frontend build",
+    "start": "concurrently \"cd apps/frontend && pnpm run start\" \"pnpm run dev:backend\""
   },
 
   "devDependencies": {

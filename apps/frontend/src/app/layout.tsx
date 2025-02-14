@@ -1,3 +1,4 @@
+export const revalidate = 0 // revalidate at most every hour
 import './globals.css';
 import React from 'react';
 import type { Metadata } from 'next';

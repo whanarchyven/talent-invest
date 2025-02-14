@@ -13,7 +13,7 @@ export default async function middleware(req: Request) {
     const hostname = req.headers.get("host") || "";
 
     // Определяем допустимые домены (локальный хост и домен для продакшена)
-    const allowedDomains = ["localhost:3000", "aicharm.com"];
+    const allowedDomains = ["localhost:3001", "aicharm.com"];
 
     // Проверяем, существует ли hostname в допустимых доменах
     const isAllowedDomain = allowedDomains.some(domain => hostname.includes(domain));

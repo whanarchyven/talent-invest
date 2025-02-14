@@ -2,7 +2,7 @@ export const revalidate = 0 // revalidate at most every hour
 import './globals.css';
 import React from 'react';
 import type { Metadata } from 'next';
-
+import { Toaster } from 'sonner';
 // import 'swiper/css';
 // import 'swiper/css/navigation';
 // import 'swiper/css/pagination';
@@ -38,6 +38,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <head></head>
       <body>
         <div id="app">{children}</div>
+        <Toaster />
       </body>
     </html>
   );
